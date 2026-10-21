@@ -1,0 +1,1 @@
+## This is just a small project with the sole purpose od understanding RAG
